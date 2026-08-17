@@ -1,1 +1,3 @@
-Sitemap: https://lakhwinder.co/sitemap.xml
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
